@@ -1,0 +1,5 @@
+name: SlimefunLaser
+version: '${version}'
+main: tech.shiftmc.slimefun.laser.Laser
+api-version: 1.19
+authors: [ Sadness ]
